@@ -12,7 +12,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*RODGER ALFA Bot Created By AKSHAY SER AND RODGER ALFA*
 This a Private bot 
 *PUBLIC BOT (LINK)  :    https://github.com/4K5H475ER/RODGER-ALFA*
- PUBLIC BOT 2 (LINK)   :  https://github.com/4K5H475ER
+ PUBLIC BOT 2 (LINK)   :  https://github.com/4K5H475ER/RODGER-ALFA
 
 `}) 
 
