@@ -1,6 +1,6 @@
-![DEVIL-SARATH](https://github.com/DEVIL-SARATH.png?size=1500)
+![AKSHAY-SER](Rodger_Alfa.jpg?size=1500)
 
-## [![OXYMORON](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+Raju+Bhai+WA+Bot+Repo;Created+by+SARATH+ACHU;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![OXYMORON](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+Rodger+Alfa+WA+Bot+Repo;Created+by+AKSHAY+SER;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
 
 ## Setup
@@ -10,7 +10,7 @@
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/DEVIL-SARATH/RAJU-BHAI.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/4K5H475ER/RODGER-ALFA)
      </div>
 <br>
 <br >
@@ -26,8 +26,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/KINGS-AS/OXYMORON
-$ cd OXYMORON
+$ git clone https://github.com/4K5H475ER/RODGER-ALFA
+$ cd RODGER_ALFA
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -36,8 +36,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/KINGS-AS/OXYMORON
-$ cd OXYMORON
+$ git clone https://github.com/4K5H475ER/RODGER-ALFA
+$ cd RODGER_ALFA 
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -50,16 +50,16 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, OXYMORON executives do not accept responsibility.
-By establishing the OXYMORON, you are deemed to have accepted these responsibilities.
+Absolutely, RODGER_ALFA executives do not accept responsibility.
+By establishing the RODGER_ALFA, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
   <div align="center">
     
-  [![DEVIL-SARATH](https://github.com/DEVIL-SARATH.png?size=100)](https://github.com/KINGS-AS) | [![KINGS-AS](https://github.com/KINGS-AS.png?size=100)](https://github.com/KINGS-AS)  
+  [![Rodger-ALFA](Rodger_Alfa.jpg?size=100)](https://github.com/4K5H475ER/RODGER-ALFA) | [![KINGS-AS](https://github.com/KINGS-AS.png?size=100)](https://github.com/4K5H475ER)  
 ----|----
-[Shrath](https://github.com/DEVIL-SARATH) | [Abhiram Sachu](https://github.com/KINGS-AS) 
+[RODGER-ALFA](https://github.com/4K5H475ER/RODGER-ALFA) | [Akshay Ser](https://github.com/4K5H475ER) 
  BOT MODIFIED | BOT PLUGIN BUG FIX
   </div>
 
