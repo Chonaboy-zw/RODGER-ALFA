@@ -10,18 +10,18 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://telegra.ph/file/5c4082bd35a3866b47978.jpg";
+    r_text[0] = "https://i.imgur.com/OnfzyAE.jpeg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━♥𝐒𝐀𝐑𝐀𝐓𝐇 𝐀𝐂𝐇𝐔♥━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━♥𝐀𝐊𝐒𝐇𝐀𝐘 𝐒𝐄𝐑♥━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐑𝐀𝐉𝐔 𝐁𝐇𝐀𝐈 𝐛𝐨𝐭.
-            *𝐑𝐀𝐉𝐔 𝐁𝐇𝐀𝐈*
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐑𝐎𝐃𝐆𝐄𝐑 𝐀𝐋𝐅𝐀 𝐛𝐨𝐭.
+            *𝐑𝐎𝐃𝐆𝐄𝐑 𝐀𝐋𝐅𝐀*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -78,7 +78,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ♦️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🎴𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□𝐑𝐀𝐉𝐔 𝐁𝐇𝐀𝐈■□■□■□■□■□
+■□■□■□■□■□𝗥𝗢𝗗𝗚𝗘𝗥 𝗔𝗟𝗙𝗔■□■□■□■□■□
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 ♦️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -134,7 +134,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🎴𝙐𝙨𝙚➜ Converts text into glowing sticker.
 ⚠️ex  attp AS
 ■□■□■□■□■□■□■□■□■□■□
-═════💢𝐑𝐀𝐉𝐔 𝐁𝐇𝐀𝐈💢═════
+═════💢𝐑𝐎𝐃𝐆𝐄𝐑 𝐀𝐋𝐅𝐀💢═════
 ▣▣▣▣▣▣▣▣𝐒𝐀𝐑𝐀𝐓𝐇▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
