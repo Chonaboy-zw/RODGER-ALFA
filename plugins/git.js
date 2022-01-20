@@ -7,12 +7,12 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://telegra.ph/file/5c4082bd35a3866b47978.jpg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.imgur.com/OnfzyAE.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*RAJU-BHAI Bot Created By ABHIRAM SACHU AND SARATH ACHU*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*RODGER ALFA Bot Created By AKSHAY SER AND RODGER ALFA*
 This a Private bot 
-*PUBLIC BOT (LINK)  :    https://github.com/DEVIL-SARATH/RajuBhai*
- PUBLIC BOT 2 (LINK)   :  https://github.com/KINGS-AS/RDX
+*PUBLIC BOT (LINK)  :    https://github.com/4K5H475ER/RODGER-ALFA*
+ PUBLIC BOT 2 (LINK)   :  https://github.com/4K5H475ER
 
 `}) 
 
