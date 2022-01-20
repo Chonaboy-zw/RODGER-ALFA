@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Raju Bhai working😈!')
+            chalk.green.bold('✅ RODGER ALFA working😈!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*🤖𝐑𝐀𝐉𝐔 𝐁𝐇𝐀𝐈 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*🤖𝐑𝐎𝐃𝐆𝐄𝐑 𝐀𝐋𝐅𝐀 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
                 }
             }
             else {
@@ -186,7 +186,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*🤖𝐑𝐀𝐉𝐔 𝐁𝐇𝐀𝐈 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*🤖𝐑𝐎𝐃𝐆𝐄𝐑 𝐀𝐋𝐅𝐀 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
                 }
 
             }
@@ -212,7 +212,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '*🤖𝐑𝐀𝐉𝐔 𝐁𝐇𝐀𝐈 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '*🤖𝐑𝐎𝐃𝐆𝐄𝐑 𝐀𝐋𝐅𝐀 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
                 }
             }
             else {
@@ -235,7 +235,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*🤖𝐑𝐀𝐉𝐔 𝐁𝐇𝐀𝐈 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*🤖𝐑𝐎𝐃𝐆𝐄𝐑 𝐀𝐋𝐅𝐀 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
                 }
             }
         }
@@ -383,8 +383,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *RAJU BHAI ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*error connect owner https://wa.me/qr/62FORLJKJZ4WP1 and massage me im coming your RAJU BHAI bot``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *RODGER ALFA ERROR FOUND!* ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*error connect owner https://wa.me/qr/3VVKLU4T3X6NO1 and massage me im coming your RODGER ALFA bot``` ' 
                                     , MessageType.text);
                             }
                         }
