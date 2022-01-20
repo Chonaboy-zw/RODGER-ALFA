@@ -57,7 +57,7 @@ By establishing the RODGER_ALFA, you are deemed to have accepted these responsib
 ## Developers
   <div align="center">
     
-  [![Rodger-ALFA](Rodger_Alfa.jpg?size=100)](https://github.com/4K5H475ER/RODGER-ALFA) | [![KINGS-AS](https://github.com/KINGS-AS.png?size=100)](https://github.com/4K5H475ER)  
+  [![Rodger-ALFA](Rodger_Alfa.jpg?size=100)](https://github.com/4K5H475ER/RODGER-ALFA) | [![KINGS-AS](http://github.com/AS-KING.png?size=100)](https://github.com/4K5H475ER)  
 ----|----
 [RODGER-ALFA](https://github.com/4K5H475ER/RODGER-ALFA) | [Akshay Ser](https://github.com/4K5H475ER) 
  BOT MODIFIED | BOT PLUGIN BUG FIX
