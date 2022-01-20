@@ -1,5 +1,5 @@
 /* Copyright (C) 2021 KINGS AS
-re-edited by DEVIL-SARATH
+re-edited by RODGER-ALFA
 */
 
 const { Sequelize } = require('sequelize');
@@ -20,13 +20,13 @@ module.exports = {
     SESSION: process.env.CONNECTION_CODE === undefined ? '' : process.env.CONNECTION_CODE,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
-    AFN: process.env.ALL_CAPTION === undefined ? 'Made By AS AND SARATH' : process.env.ALL_CAPTION,
-    GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
+    AFN: process.env.ALL_CAPTION === undefined ? 'Made By AS AND RODGER' : process.env.ALL_CAPTION,
+    GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.imgur.com/OnfzyAE.jpeg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     AUTOSTICKER: process.env.AUTO_STICKER === undefined ? 'true' : process.env.AUTO_STICKER,
-    PLK: process.env.OWNER_NAME === undefined ? '𝐒𝐀𝐑𝐀𝐓𝐇' : process.env.OWNER_NAME,
+    PLK: process.env.OWNER_NAME === undefined ? '𝐑𝐎𝐃𝐆𝐄𝐑' : process.env.OWNER_NAME,
     FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
     BOT_PRESENCE: process.env.BOT_PRESENCE === undefined ? 'online' : process.env.BOT_PRESENCE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
@@ -46,8 +46,8 @@ module.exports = {
     PROMOTEMSG: process.env.PROMOTE_MESSAGE === undefined ? 'default' : process.env.PROMOTE_MESSAGE,
     DEMOTEMSG: process.env.DEMOTE_MESSAGE === undefined ? 'default' : process.env.DEMOTE_MESSAGE,
     BANMSG: process.env.BAN_MESSAGE === undefined ? 'default' : process.env.BAN_MESSAGE,
-    BOTSK: process.env.BOT_NAME === undefined ? '𝐑𝐀𝐉𝐔 𝐁𝐇𝐀𝐈 𝐁𝐎𝐓' : process.env.BOT_NAME,
-    LOGOSK: process.env.ALL_IMG === undefined ? 'https://telegra.ph/file/20efb17e2377f524e7b2c.jpg' : process.env.ALL_IMG,
+    BOTSK: process.env.BOT_NAME === undefined ? '𝐑𝐎𝐃𝐆𝐄𝐑 𝐀𝐋𝐅𝐀 𝐁𝐎𝐓' : process.env.BOT_NAME,
+    LOGOSK: process.env.ALL_IMG === undefined ? 'https://i.imgur.com/OnfzyAE.jpeg' : process.env.ALL_IMG,
     SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://www.instagram.com/Unknown/' : process.env.SOCIAL_MEDIA,
     TAGPLK: process.env.TAG_HEADER === undefined ? '*Attention please 📢*' : process.env.TAG_HEADER,
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
