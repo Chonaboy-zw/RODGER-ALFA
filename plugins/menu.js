@@ -27,29 +27,29 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
 
 ♦️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -song <text>
-🎴𝙐𝙨𝙚➜ Downloads song for you.
-⚠️.song  baby love
+📕𝙐𝙨𝙚➜ Downloads song for you.
+📘song  baby love
 
-♦️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -video <yt link>
-🎴𝙐𝙨𝙚➜ Downloads video from YouTube link.
+📕𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -video <yt link>
+📘𝙐𝙨𝙚➜ Downloads video from YouTube link.
 
-♦️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -insta <link>
-🎴𝙐𝙨𝙚➜   Downloads content from instagram.
+📕𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -insta <link>
+📘𝙐𝙨𝙚➜   Downloads content from instagram.
 
-♦️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -yt<text>
-🎴𝙐𝙨𝙚➜   Gives you YT links.
+📕𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -yt<text>
+📘𝙐𝙨𝙚➜   Gives you YT links.
 
-♦️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -show <show name>
-🎴𝙐𝙨𝙚➜   Get info related to tv series and shows.
+📕𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -show <show name>
+📘𝙐𝙨𝙚➜   Get info related to tv series and shows.
 
-♦️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -gif 
-🎴𝙐𝙨𝙚➜ Converts video to gif.
+📕𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -gif 
+📘𝙐𝙨𝙚➜ Converts video to gif.
 
-♦️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -tomp3 
-🎴𝙐𝙨𝙚➜ Converts video into audio.
+📕𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -tomp3 
+📘𝙐𝙨𝙚➜ Converts video into audio.
 
-♦️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -say <text>
-🎴𝙐𝙨𝙚➜ Converts text into voice.
+📕𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -say <text>
+📘𝙐𝙨𝙚➜ Converts text into voice.
 
 ♦️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -img <text>
 🎴𝙐𝙨𝙚➜ It sends image from google.
